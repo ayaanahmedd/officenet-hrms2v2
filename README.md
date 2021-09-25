@@ -1,1 +1,3 @@
-# officenet-hrms2v2
+# OfficeNet-HRMS2 Revamp
+
+Mailer no. 3 v2 for Netcomm Lab
